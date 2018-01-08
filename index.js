@@ -7,4 +7,4 @@ console.log("Name:")
 console.log("butch")
 
 console.log("Height:")
-console.log(height)
+console.log(parseInt(height) + 1 )
